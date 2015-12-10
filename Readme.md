@@ -2,4 +2,10 @@
 
 Presented at IEEE ICMLA'15 in Miami.
 
-All experiments was performed using a single node HPCC Systems.
+All experiments was performed using a single node [HPCC Systems].
+
+
+Contact Itauma Itauma @amightyo
+
+[HPCC Systems]: https://hpccsystems.com/
+[ICMLA'15]: http://www.icmla-conference.org/icmla15/#
